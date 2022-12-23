@@ -1,17 +1,18 @@
 # use-react-timer
 
 A minimal timer hook for react and react native.
-A hook to use [react-timer](https://github.com/HuynhTuanWD/use-react-timer) as a React [hook](https://reactjs.org/docs/hooks-intro.html) to manipulate state.
+
+![Use case](https://raw.githubusercontent.com/HuynhTuanWD/use-react-timer/master/example/timer-use-case.gif)
 
 # Installation
 
 `npm install use-react-timer`
-
-# Use case
-
-![Use case](https://raw.githubusercontent.com/HuynhTuanWD/use-react-timer/master/example/timer-use-case.gif)
+or
+`yarn add use-react-timer`
 
 # API
+
+https://github.com/HuynhTuanWD/use-react-timer
 
 ## useTimer
 
