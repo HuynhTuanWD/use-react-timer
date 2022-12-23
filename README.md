@@ -6,8 +6,9 @@ A minimal timer hook for react and react native.
 
 # Installation
 
+### npm
 `npm install use-react-timer`
-or
+### yarn
 `yarn add use-react-timer`
 
 # API

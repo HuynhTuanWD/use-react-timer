@@ -1,6 +1,6 @@
 {
   "name": "use-react-timer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Minimal timer hook for react and react native",
   "main": "dist/use-react-timer.js",
   "umd:main": "dist/use-react-timer.umd.js",
