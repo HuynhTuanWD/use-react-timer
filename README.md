@@ -51,7 +51,7 @@ export default Timer;
 ```
 
 ## API
-`useInfiniteScroll(listRef, loadMore)`
+`const { day, hour, min, sec, isRunning } = useTimer(endAt);`
 | name                           | type                               | description                                                        |
 | ------------------------------ | ---------------------------------- | -------------------------------------------------------------------|
 | **day**                        | string                             | day of countdown                                                   |
